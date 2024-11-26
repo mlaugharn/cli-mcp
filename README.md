@@ -31,22 +31,22 @@ Note: I had to use `/opt/homebrew/bin/uv` instead of just `uv` in the command fi
 On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
 On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
-<details>
-  <summary>Development/Unpublished Servers Configuration</summary>
-  ```json
-  "mcpServers": {
-    "cli": {
-      "command": "uv",
-      "args": [
-        "--directory",
-        "<path to repo folder>",
-        "run",
-        "cli"
-      ]
-    }
+
+<summary>Development/Unpublished Servers Configuration</summary>
+```
+"mcpServers": {
+  "cli": {
+    "command": "uv",
+    "args": [
+      "--directory",
+      "<path to repo folder>",
+      "run",
+      "cli"
+    ]
   }
-  ```
-</details>
+}
+```
+
 
 
 
