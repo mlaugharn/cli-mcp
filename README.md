@@ -39,9 +39,9 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
       "command": "uv",
       "args": [
         "--directory",
-        "/Users/marc/tap",
+        "<path to repo folder>",
         "run",
-        "tap"
+        "cli"
       ]
     }
   }
