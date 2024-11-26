@@ -33,7 +33,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 <details>
   <summary>Development/Unpublished Servers Configuration</summary>
-  ```
+  ```json
   "mcpServers": {
     "cli": {
       "command": "uv",
