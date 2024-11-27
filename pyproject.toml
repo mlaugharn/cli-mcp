@@ -5,12 +5,7 @@ description = "cli bridge"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
- "aclimatise>=3.0.1",
- "cwl-utils>=0.15",
- "llm-claude-3>=0.9",
- "llm>=0.18",
  "mcp>=1.0.0",
- "chatblade>=0.7.0",
 ]
 [[project.authors]]
 name = "Marc Laugharn"
