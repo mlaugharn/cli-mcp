@@ -29,6 +29,7 @@ The server implements one tool:
 Note: I had to use `/opt/homebrew/bin/uv` instead of just `uv` in the command field in this json:
 
 On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
+
 On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 
