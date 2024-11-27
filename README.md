@@ -32,17 +32,17 @@ On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
 On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 
-<summary>Development/Unpublished Servers Configuration</summary>
+
 ```
-"mcpServers": {
+{"mcpServers": {
   "cli": {
     "command": "uv",
     "args": [
-      "--directory",
-      "<path to repo folder>",
       "run",
+      "--directory",
+      "\<path to repo folder\>",
       "cli"
-    ]
+    ]}
   }
 }
 ```
