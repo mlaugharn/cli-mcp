@@ -49,7 +49,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 ```
 
 
-
+By design, you have to explicitly 'add' a command before it can be run.
 
 ### Debugging
 
