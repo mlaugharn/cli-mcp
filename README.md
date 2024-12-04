@@ -10,7 +10,7 @@ Pretty much a remix of the demo notes app.
 
 ### Resources
 
-The server implements a simple note storage system with:
+The server implements a simple system for working with arbitrary clis with:
 - Custom cli:// URI scheme for accessing individual notes
 - Each cli resource has a name, help menu subtree, and text/plain mimetype
 
