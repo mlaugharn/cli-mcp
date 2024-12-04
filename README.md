@@ -4,6 +4,7 @@ cli bridge
 
 <img width="870" alt="image" src="https://github.com/user-attachments/assets/a7b78531-c681-40fc-bd65-044980547629">
 
+Pretty much a remix of the demo notes app.
 
 ## Components
 
@@ -11,7 +12,7 @@ cli bridge
 
 The server implements a simple note storage system with:
 - Custom cli:// URI scheme for accessing individual notes
-- Each note resource has a name, help menu subtree, and text/plain mimetype
+- Each cli resource has a name, help menu subtree, and text/plain mimetype
 
 ### Tools
 
